@@ -1,1 +1,1 @@
-web: gunicorn Django-App.wsgi
+web: gunicorn ChazeFashion.wsgi
